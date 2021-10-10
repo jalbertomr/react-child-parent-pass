@@ -1,0 +1,17 @@
+.parentComponent {
+  background: rgb(0, 123, 139);
+  padding: 10px;
+}
+
+.childComponent {
+    background:rgb(0, 139, 35);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+}
+
+.dataPassed {
+    color:darkred;
+    font-weight: bold;
+    background: orange;
+}
